@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #658263;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #1a2e0e;
+  font-size: 8rem;
+  color: #c1e6d9;
+}
+
+h3{
+  font-size: 20px;
+  color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  font-size: 2rem;
+  color: #002015;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family:arial;
+
+}
